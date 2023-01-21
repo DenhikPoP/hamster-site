@@ -1,0 +1,77 @@
+<html>
+    <title>Что нужно знать будущим владельцам хомяков?
+    </title>
+    <body style="background-color:#00FA9A">
+        <header style="background-color:#FFA07A">
+            <a><img src = "https://adonius.club/uploads/posts/2022-02/thumbs/1644881956_7-adonius-club-p-khomyak-na-prozrachnom-fone-22.jpg" height="70px" width="80px"></a>
+            <a href = "#hamster" style="font-size:20px">Про хомяков</a>
+            <a style="color:#FFA07A">///</a>
+            <a href = "#price" style="font-size:20px">Прайс-лист</a>
+            <a style="color:#FFA07A">///</a>
+            <a href ="#pros-cons" style="font-size:20px">Плюсы и минусы</a>
+        </header>
+        <main>
+            <h1 style="text-align:center">Общая информация о хомяках</h1>
+            <p style="font-size:17px">Грызуны, как и другие домашние животные, требуют хорошего ухода.
+                Также важно понимать, что любое животное - это большая ответственноссть. Средняя продолжительность жизни хомяка - 2-3 года. Весят они  50-140гр. При этом сам хомяк стоит 100-500 руб., но уход за ним обойдется намного дороже. Так же важно знать, что хомяки бывают джунгарские (джунгарики) и сирийские. Джунгарики меньше, чем сирийские, соотвественно едят тоже меньше, а так же немного отличаются раскраской </p>
+            <table style="border-collapse:collapse">
+                <tr style="border:solid;;#FFA07A;1px">
+                    <td style="border:solid;border-color:#FFA07A;1px">Название товара</td>
+                    <td style="border:solid;border-color:#FFA07A;1px">Цена товара</td>
+                    <td style="border:solid;border-color:#FFA07A;1px">Описание  товара</td>
+                    <td style="border:solid;border-color:#FFA07A;1px">Фото товара</td>
+                </tr>
+                <tr>
+                     <td style="border:solid;border-color:#FFA07A;1px">Клетка</td>
+                    <td style="border:solid;border-color:#FFA07A;1px">1000-3000руб</td>
+                    <td style="border:solid;border-color:#FFA07A;1px">Клетка нужна, чтобы хомяк не убежал и ничего не сгрыз, поэтому выбирайте клетку из прочного материала</td>
+                    <td style="border:solid;border-color:#FFA07A;1px"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIW24S1uHY_YEl0v7hT_-U_vgUwSzY3wsOpONW2taPpA&s" heigh = "100px" width = "100px"></td>
+                </tr>
+                <tr>
+                    <td style="border:solid;border-color:#FFA07A;1px">Наполнитель</td>
+                    <td style="border:solid;border-color:#FFA07A;1px">Около 100руб</td>
+                    <td style="border:solid;border-color:#FFA07A;1px">Наполнитель нужен, чтобы впитывать влагу и запахи, а так же создавать подстилку хомяку</td>
+                   <td style="border:solid;border-color:#FFA07A;1px"><img src="https://main-cdn.sbermegamarket.ru/big2/hlr-system/-21/062/056/224/813/14/600003459238b0.jpeg" height="100px" width="100px"></td>
+                </tr>
+                <tr>
+                    <td style="border:solid;border-color:#FFA07A;1px">Корм</td>
+                    <td style="border:solid;border-color:#FFA07A;1px"> 150-200руб</td>
+                    <td style="border:solid;border-color:#FFA07A;1px">Корм нужен для питания хомяка, поэтому надо выбирать хороший корм, смотреть на его состав, иначе хомяку может стать плохо</td>
+                    <td style="border:solid;border-color:#FFA07A;1px"><img src="https://m.mirkorma.ru/upload/iblock/38f/38fc30f2d08ab159dd64a459c8ed6c75.jpg" width="90px" height="100px"></td>
+                </tr>
+            </table>
+            <p style="font-size:20px">Но все же, я думаю, что такой информации недостаточно, поэтому чуть ниже мы напишем конкретные цены в наших магазинах и виды имеющихся товаров</p>
+            <h1 id="#price" style="font-size:30px;text-align:center;color:#FF0000">Клетки</h1>
+            <p style="font-size:20px">1)Данный вид клетки подходит владельцам джунгариков. Такая клетка не занимает много места, но для сирийских не подходит.</p>
+            <p style="font-size:20px;color:#FF0000"><b>В наших магазинах стоит 1000р.</b></p>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOHH5VhJ0Q67Uw2ZiKAplvme0829P6iBk3vhgTa0i2LQ&s" width="250px" height="250px">
+            <p style="font-size:20px">2) Данные виды клеток намного больше первых, но в них сирийский хомяк будет чувсвовать себя комфортно и свободно, когда для джунгариков она будет слишком большая, но если вы хотите, чтобы ваш хомяк жил и ни в чем себе не отказывал, можете брать эту клетку. Так же такой вид клетки бывает с трубами, по которым хомяк может лазить, но их трудно промывать.Такие клетки бывают двухэтажные и трехэтажные.</p>
+            <p style="font-size:20px;color:#FF0000"><b>В наших магазинах подобная клетка стоит 2000р.</b></p>
+            <img src="https://83.img.avito.st/image/1/1.ppNygLaBCnoEJfh8MsaHgLwjDnzQJQp8t0AOfAQl-HzEJwZ-xCEKPg.0PSnw7lh1vKVjaQpheNkRMQVnNcZLoNxnWfs_YTy-yE" width="300px" height="250px">
+            <p style="color:white">/</p>
+            <p style="font-size:20px;color:#FF0000"><b>Трехэтажая клетка стоит 3000р.</b></p>
+            <img src="https://www.magazindoberman.ru/spree/products/000/027/452/product/9742.jpg?1581687091">
+            <h1 style="font-size:30px;text-align:center;color:#FF0000">Наполнитель</h1>
+            <p style="font-size:20px">В таком пакете находится 3.5 кг наполнителя. </p>
+            <p style="font-size:20px;color:#FF0000"><b>Наполнитель в наших магазинах стоит 100р.</b></p>
+            <img src="https://main-cdn.sbermegamarket.ru/mid9/hlr-system/-21/062/056/224/813/14/600003459238b0.jpeg" width="200px" height="200px">
+            <h1 style="font-size:30px;text-align:center;color:#FF0000">Корм</h1>
+            <p style="font-size:20px">Корм продаетсся в пачках по 400г, хватит его примерно на 2 месяца. Так же грызунов можно кормить вкусняшками, чтобы узнать подробнее обратитесь по <a href="#contacts"> телефону </a> </p>
+            <p style="font-size:20px;color:#FF0000"><b>В наших магазинах стоит 170р.</b></p>
+            <img src = "https://lenta.servicecdn.ru/globalassets/1/-/18/07/69/318419_8.png?preset=fulllossywhite" width="120px" height="200px">
+            <h1 id="#pros-cons" style="text-align:center">Плюсы и минусы</h1>
+            <p style="font-size:20px">С одной стороны, хомяк или любое другое животное, может вас развеселить, с ними можно поиграть, но с другой стороны, нужно понимать, что любое животно - большая ответственность. Его надо кормить, поить, выпускать прогуляться, но следить, чтобы он не забежал в какую-нибудь щель. Тут все зависит от вас, если вы готовы принять эту ответственность, надолго не уезжать из дома, чтобы кормить питомца, играть с ним взамен на пушистого друга, то никто вам не мешает, а если вы хотите свободы, то это не для вас.</p>
+
+        </main>
+        <footer style="background-color:#FFA07A">
+            <p  id="#contacts" style="text-align:center;font-size:20px">Контакты</p>
+            <a>E-mail:wafragrautrotti-9280@yopmail.com</a>
+            <a style="color:#FFA07A">///</a>
+            <a>Телефон:7(960)650-06-19</a>
+            <a style="color:#FFA07A">///</a>
+            <p>Адрес:Москва, Лубянский проезд,21с3</p>
+        </footer>
+
+                
+    </body>
+</html>
